@@ -7,7 +7,7 @@ it is a fun palindrome checking app where you can check if you were born in a pa
 Interactive UI
 Responsive Design
 
-#Built with
+# Built with
 Html
 css
 javascript
